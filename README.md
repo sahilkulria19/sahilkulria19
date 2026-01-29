@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SAHIL KULRIA
 🔭 I’m currently working on **Full-stack MERN applications & real-world web projects**  <br>👯 I’m looking to collaborate on **Open-source projects, startups & Real World ideas**  <br>🤝 I’m looking for help with **Backend optimization, system design & scalable APIs**  <br>🌱 I’m currently learning **Advanced backend development, AI integrations & cloud deployment**  <br>💬 Ask me about **MERN Stack, React, Node.js, REST APIs & project architecture**  <br>⚡ Fun fact: **I turn coffee ☕ into code and bugs into features 😄**<br>
 
 
