@@ -10,11 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sahilkulria19&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/sahilkulria19/snake-animation/output/github-contribution-grid-snake.svg)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=sahilkulria19&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkulria19&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
