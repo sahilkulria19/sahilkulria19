@@ -16,6 +16,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/sahilkulria19/sahilkulria19/blob/output/github-snake-dark.svg)
