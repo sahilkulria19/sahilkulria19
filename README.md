@@ -12,7 +12,6 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkulria19&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ![snake gif](https://github.com/sahilkulria19/sahilkulria19/blob/output/github-snake-dark.svg)
